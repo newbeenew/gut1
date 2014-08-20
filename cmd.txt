@@ -1,4 +1,4 @@
-lol G:\lol\Ó¢ĞÛÁªÃË\TCLS\Client.exe;taskkill /f /im TenioDL.exe
+lol G:\lol\è‹±é›„è”ç›Ÿ\TCLS\Client.exe;taskkill /f /im TenioDL.exe
 qq  G:\QQ8\QQProtect\Bin\QQProtect.exe
 dbfm explorer "http://douban.fm"
 wb  explorer "http://weibo.com"
