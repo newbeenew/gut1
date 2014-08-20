@@ -1,0 +1,7 @@
+lol G:\lol\Ó¢ÐÛÁªÃË\TCLS\Client.exe;taskkill /f /im TenioDL.exe
+qq  G:\QQ8\QQProtect\Bin\QQProtect.exe
+dbfm explorer "http://douban.fm"
+wb  explorer "http://weibo.com"
+qg G:\qqgame\QQGame.exe
+st shutdown.exe /s /t 0
+55 taskkill /f /im TenioDL.exe
